@@ -74,7 +74,7 @@ and independent variables. Only numerical features were used for this.
 </span>
 
 <p align="center">
-<img src="images/Correlation.png" width="497" height="333px">
+<img src="images/Correlation.png" width="1701px" height="747px">
 <h4 align="center"> Figure 3</h4>
 </p>
 
@@ -120,19 +120,23 @@ the trade-off between training time and model complexity </span>
 <br><br>
 
 <p align="center">
-<img src="images/Loan Status-Education.png" width="900px" height="300px">
+<img src="images/Loan Status-Education.png" width="1450px" height="520px">
 <h4 align="center"> Figure 5</h4>
 </p> 
 <br>
 
 <p align="center">
-<img src="images/Loan Status-Gender and House Type.png" width="907px" height="258px">
+<img src="images/Loan Status-Gender.png" width="1030px" height="408px">
+<br>
+<img src="images/Loan Status-Housing Type.png" width="1000px" height="458px">
 <h4 align="center"> Figure 6</h4>
 </p>
 <br>
 
 <p align="center">
-<img src="images/Loan Status-Income Type.png" width="1025px" height="358px">
+<img src="images/Loan Status-IncomeType_Count.png" width="1035px" height="428px">
+<br>
+<img src="images/Gender_IncomeType_Count.png" width="1025px" height="458px">
 <h4 align="center"> Figure 7</h4>
 </p>
 <br>
